@@ -1,0 +1,7 @@
+set a 3
+set b 4
+set c 6
+set d 10
+unset x
+unset y
+store
