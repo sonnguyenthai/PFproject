@@ -7,3 +7,4 @@ unset y
 store
 h
 help
+help
