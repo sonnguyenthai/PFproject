@@ -7,4 +7,9 @@ unset y
 store
 h
 help
+<<<<<<< HEAD
 unset a
+=======
+help
+set k 10
+>>>>>>> test
