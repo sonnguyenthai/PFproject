@@ -5,3 +5,5 @@ set d 10
 unset x
 unset y
 store
+h
+help
