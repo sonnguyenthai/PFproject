@@ -8,3 +8,4 @@ store
 h
 help
 help
+set k 10
