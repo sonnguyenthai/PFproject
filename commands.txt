@@ -5,6 +5,12 @@ set d 10
 unset x
 unset y
 store
+
+B
+B
+B
+C
+
 h
 help
 help
